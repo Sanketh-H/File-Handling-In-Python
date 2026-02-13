@@ -1,0 +1,13 @@
+101,amar,50000,m,account
+102,kiran,45000,f,research
+103,ankita,65000,f,account
+104,ravi,45000,m,account
+105,Suresh,55000,m,research
+106,Rama,75000,f,sales
+107,Krishna,60000,m,operations
+108,Karshima,35000,f,account
+109,Rani,90000,f,field
+110,Chandan,25000,m,sales
+111,Reena,65000,f,field
+112,Veni,10000,f,field
+113,antony,50000,m,operations

@@ -1,0 +1,6 @@
+Name,Age,Salary
+rahul,25,50000
+sanketh,26,70000
+lokesh,27,60000
+vasanth,28,65000
+hemalatha,29,70000

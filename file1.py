@@ -47,10 +47,7 @@
 
 #filevaribale.close()
 
-#test
-
 file1 = open("c:/sanketh_70/myfile.txt")
 data=file1.read()
 print(data)
-
 file1.close()
